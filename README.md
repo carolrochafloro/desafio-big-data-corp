@@ -1,1 +1,2 @@
-# desafio-big-data-corp
+# Desafio - arquitetura
+O desafio consiste em desenhar uma arquitetura para um sistema de venda de ingressos que garanta que os usuários conseguirão comprar por ordem de solicitação e que somente serão fechadas vendas enquanto houver ingressos disponíveis. Criei a arquitetura utilizando RabbitMq e uma base de dados, criando um conceito de fila com worker services processando as solicitações.
